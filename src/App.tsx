@@ -1,10 +1,7 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import appLogo from '/favicon.svg'
-import PWABadge from './PWABadge.tsx'
+
 import './App.css'
 
-import React, { useEffect } from 'react';
+import  { useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Footer from './components/layout/Footer';
 import { Toaster } from './components/ui/toaster';
