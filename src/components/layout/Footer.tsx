@@ -1,6 +1,6 @@
 import React from 'react';
 import { UtensilsCrossed, Instagram, Facebook, Twitter } from 'lucide-react';
-import { Separator } from '@/components/ui/separator';
+import { Separator } from '../../components/ui/separator';
 
 const Footer: React.FC = () => {
   return (
